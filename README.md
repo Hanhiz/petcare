@@ -23,7 +23,7 @@ To get started with this project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Hanhiz/petcare-landing-page.git
+   git clone https://github.com/Hanhiz/petcare.git
    ```
 
 2. Install the required dependencies:
